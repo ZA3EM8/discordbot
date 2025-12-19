@@ -1,0 +1,28 @@
+{
+  "name": "security-bot",
+  "version": "1.version",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "HOOK"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "security",
+    "protection",
+    "moderation"
+  ],
+  "author": "HOOK",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.6.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}

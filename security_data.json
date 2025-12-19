@@ -1,0 +1,64 @@
+{
+  "guilds": {
+    "": {
+      "protection": {
+        "enabled": false,
+        "antiBot": false,
+        "antiSpam": false,
+        "antiRaid": false,
+        "antiRoleGrant": false,
+        "roleProtection": false,
+        "channelProtection": false
+      },
+      "advancedWhitelist": {
+        "users": {},
+        "roles": {}
+      },
+      "backups": {
+        "roles": [],
+        "channels": []
+      },
+      "limits": {
+        "channelDelete": {
+          "limit": 5,
+          "action": "none"
+        },
+        "roleDelete": {
+          "limit": 5,
+          "action": "none"
+        }
+      },
+      "violations": {}
+    },
+    "1075775199691153459": {
+      "protection": {
+        "enabled": false,
+        "antiBot": false,
+        "antiSpam": false,
+        "antiRaid": false,
+        "antiRoleGrant": false,
+        "roleProtection": false,
+        "channelProtection": false
+      },
+      "advancedWhitelist": {
+        "users": {},
+        "roles": {}
+      },
+      "backups": {
+        "roles": [],
+        "channels": []
+      },
+      "limits": {
+        "channelDelete": {
+          "limit": 5,
+          "action": "none"
+        },
+        "roleDelete": {
+          "limit": 5,
+          "action": "none"
+        }
+      },
+      "violations": {}
+    }
+  }
+}
